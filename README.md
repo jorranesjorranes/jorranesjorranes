@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá, me chamo Jorranes ! ## Bem vindo ao meu perfil do GitHub 👋
+
+Fiz um curso de Java 💻, e comecei a me interessar mais por programação 😊, atualmente estudo Spring, Spring Boot, JPA, banco de dados MySQL, GIT, Spring Security e JWT 🕮
+
+Manjo um pouco de CSS e HTML
 
 <!--
 **jorranesjorranes/jorranesjorranes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
