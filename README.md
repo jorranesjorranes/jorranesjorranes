@@ -10,4 +10,4 @@ me contate via e-mail 📧: jorranes.oliveira.a@gmail.com
 
 Tenha um bom dia 🌞.
 
-![image](https://user-images.githubusercontent.com/113206390/198700394-79026ccd-9d97-4ee1-8146-666a3fd87cff.png)
+![old computer a brain](https://user-images.githubusercontent.com/113206390/198702638-c229e0f4-3455-4177-9e32-ff974eecdb53.gif)
